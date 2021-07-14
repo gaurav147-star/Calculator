@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background:url(../img/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+input{
+    width: 109px;
+    height: 102px;
+    font-size: 57px;
+    border-radius: 10px;
+    margin: 5px 5px;
+    background-color: rgba(245, 173, 38, 0.651);
+    border-style: none;
+}
+#myform{
+    margin: 60px 699px;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Otomanopee One', sans-serif;
+    color: purple;
+    font-size: 80px;
+    margin: 4px 5px;
+}
