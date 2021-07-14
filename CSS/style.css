@@ -16,9 +16,7 @@ input{
     border-style: none;
 }
 body{
-    background:url(../img/bg2.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: rgba(137, 43, 226, 0.473);
 
 
 }
